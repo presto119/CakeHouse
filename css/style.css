@@ -509,6 +509,7 @@ footer .wrap .cont ul li a{
     color: #cfcfcf;
     line-height: 20px;
 }
+footer .wrap .cont ul li:hover a{color: #fff;}
 footer .wrap .cont ul li p{
     font-size: 14px;
     font-weight: 300;
